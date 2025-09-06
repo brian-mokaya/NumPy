@@ -8,3 +8,20 @@ print("Array:", my_array)
 print("Array * 2:", my_array * 2)         # Multiply each element by 2
 print("Mean:", np.mean(my_array))        # Average of the array
 print("Square Roots:", np.sqrt(my_array))
+
+# Create a list of numbers from 10 to 50
+numbers = list(range(10, 51))
+
+# Create a numpy array from the list
+numbers_array = np.array(numbers)
+
+# Print the mean of the array
+print("Mean of the array:", numbers_array.mean())
+
+# Print the max of the array
+print("Max of the array:", numbers_array.max())
+
+# Print the min of the array
+print("Size of the array:", numbers_array.min())
+
+print(numbers_array.size)
