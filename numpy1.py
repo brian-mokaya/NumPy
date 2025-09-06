@@ -22,6 +22,7 @@ print("Mean of the array:", numbers_array.mean())
 print("Max of the array:", numbers_array.max())
 
 # Print the min of the array
-print("Size of the array:", numbers_array.min())
+print("Min of the array:", numbers_array.min())
 
+# Print the size of the array
 print(numbers_array.size)
