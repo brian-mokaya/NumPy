@@ -26,3 +26,6 @@ print("Min of the array:", numbers_array.min())
 
 # Print the size of the array
 print("Size of the array:", numbers_array.size)
+
+# multiply the array by 3
+print("Array * 3:", numbers_array * 3)
