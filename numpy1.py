@@ -25,4 +25,4 @@ print("Max of the array:", numbers_array.max())
 print("Min of the array:", numbers_array.min())
 
 # Print the size of the array
-print(numbers_array.size)
+print("Size of the array:", numbers_array.size)
